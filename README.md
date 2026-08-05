@@ -47,3 +47,6 @@ When I’m not in front of a terminal, you can usually find me:
 * [📘 **Facebook**](https://www.facebook.com/vln.kyl/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/kcyKael/kcyKael/blob/output/github-snake-dark.svg)
+
